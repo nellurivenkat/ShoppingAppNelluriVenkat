@@ -12,8 +12,16 @@ The app also uses a ViewPager2 with a bottom TabLayout for Shop, Cart, Orders, a
 
 The app uses the fake store API to consume resources, and all resources have the same structure as the JSON API responses.
 
+
 Login details
 
-Username: mor_2314 Password: 83r5^_
+Username: mor_2314 
 
-student Name - 25463 Name - Nelluri Venkat
+Password: 83r5^_
+
+
+
+Student Details
+
+Student Name - Nelluri Venkat
+student ID - 25463

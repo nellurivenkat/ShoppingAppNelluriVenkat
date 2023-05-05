@@ -1,5 +1,7 @@
 # ShoppingAppNelluriVenkat
 
+Firstly, Here is the github link for the screencast of this shopping app project (https://github.com/nellurivenkat/screencast-shopping-app )
+
 The online shopping mobile app created with the requirements stated in the noodle, this app aims to provide a seamless and user-friendly shopping experience to its users. The app fulfills all the requirements mentioned and provides additional features as a bonus. The app uses the fake store API available at https://fakestoreapi.com/ to consume resources, and all resources (User, Product, Cart, etc.) have the same structure as the JSON API responses for auto-parse using Gson and to build JSON back from objects for POST requests without much manual intervention.
 
 The app starts with an authentication page where the user can either sign up or log in using their username and password. Upon successful login, the user's details are stored, and they are directed to the home page of the app, which shows a list of product categories. The app uses a RecyclerView to display the list of categories, and on clicking a category, it shows the list of products available in that category. The user can view the product description, and if interested, they can add the product to their cart by specifying the quantity they want to purchase.

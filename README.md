@@ -1,6 +1,6 @@
 # ShoppingAppNelluriVenkat
 
-Firstly, Here is the github link for the screencast of this shopping app project (https://github.com/nellurivenkat/screencast-shopping-app )
+Firstly, Here is the github link for the screencast of this shopping app project and app-debug.apk file. (https://github.com/nellurivenkat/screencast-shopping-app )
 
 The online shopping mobile app created with the requirements stated in the noodle, this app aims to provide a seamless and user-friendly shopping experience to its users. The app fulfills all the requirements mentioned and provides additional features as a bonus. The app uses the fake store API available at https://fakestoreapi.com/ to consume resources, and all resources (User, Product, Cart, etc.) have the same structure as the JSON API responses for auto-parse using Gson and to build JSON back from objects for POST requests without much manual intervention.
 
